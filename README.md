@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rchanging
-- 👀 I’m interested in web design and development
-- 🌱 I’m currently learning various coding language 
-- 💞️ I’m looking to collaborate on web design
+- 👀 I’m A GRAPHIC DESIGNER, WEB & UI/UX DESIGNER, APP DESIGN 
+- 🌱 I’m currently designing & learning various coding language 
+- 💞️ I’m looking to collaborate on Design 
 - 📫 How to reach me : github
 
 <!---
